@@ -1,9 +1,9 @@
 {
   "version": 2,
   "functions": {
-    "index": {
-      "maxDuration": 10,
-      "runtime": "nodejs18.x"
+    "index.js": {
+      "runtime": "nodejs18.x",
+      "maxDuration": 10
     }
   },
   "routes": [
