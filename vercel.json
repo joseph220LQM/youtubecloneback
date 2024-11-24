@@ -3,7 +3,6 @@
   "functions": {
     "index": {
       "maxDuration": 10,
-      "maxBodySize": "100mb",
       "runtime": "nodejs18.x"
     }
   },
